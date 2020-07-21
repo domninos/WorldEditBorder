@@ -1,0 +1,11 @@
+borders:
+messages:
+  prefix: '&7[&bWorldBorder&7]'
+  cannotEnter: '&7You cannot enter this region!'
+  playerOnly: '&cOnly players can use this command!'
+  commandNotFound: '&aCommand not found'
+  borderNotFound: '&aBorder with ID of %arg% not found!'
+  alreadyLoaded: '&c%arg% is already a loaded border!'
+  created: '&aSuccessfully created %border% border!'
+  deleted: '&aSuccessfully removed and deleted %border%'
+  checked: '&aSuccessfully checked %border% for all players.'

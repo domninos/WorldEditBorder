@@ -1,0 +1,17 @@
+name: WorldEditBorder
+main: net.omni.worldeditborder.WorldEditBorder
+version: '1.0'
+api-version: '1.13'
+author: omni
+depend:
+  - WorldEdit
+commands:
+  worldeditborder:
+    description: Main command
+    permission: worldeditborder.use
+    aliases:
+      - web
+      - border
+permissions:
+  worldeditborder.use:
+    default: op
